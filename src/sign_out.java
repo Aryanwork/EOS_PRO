@@ -6,6 +6,8 @@ public class sign_out {
 System.out.println("test_A");
 //Dev #2 is editing codes
 System.out.println("test_B");
+// 0305
+System.out.println("0305");
 
 	}
 
